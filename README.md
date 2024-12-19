@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">➤ Atualmente cursando Sistemas para Internet pelo IFPB<br><br>➤ Estudando Princípios de design de código e boas práticas de programação<br><br>➤ Conhecimento em Photoshop e UI design</p>
+<p align="left">❍ Atualmente cursando Sistemas para Internet pelo IFPB<br><br>❍ Estudando Princípios de design de código e boas práticas de programação<br><br>❍ Conhecimento em Photoshop e UI design</p>
 
 ###
 
