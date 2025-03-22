@@ -1,8 +1,8 @@
-<h1 align="left">✌️</h1>
+<h1 align="left">Seja bem-vindo(a)!</h1>
 
 ###
 
-<p align="left">❍ Atualmente cursando Sistemas para Internet pelo IFPB<br><br>❍ Estudando Princípios de design de código e boas práticas de programação<br><br>❍ Conhecimento em Photoshop e UI design</p>
+<p align="left">Apaixonado por tecnologia desde criança, sempre quis entender o que acontece por trás dos sites e programas que utilizamos no dia a dia. Esse interesse me levou a explorar cada vez mais o funcionamento dessas ferramentas e a desenvolver habilidades em programação. Atualmente, curso Sistemas para Internet no IFPB e estou sempre em busca de novos conhecimentos para aprimorar minhas competências na área. </p>
 
 ###
 
