@@ -1,16 +1,16 @@
-<h1 align="center">Seja bem-vindo(a)!</h1>
+<h1 align="center">Seja bem-vindo(a)! 👋</h1>
 
 ###
 
-<h3 align="center">Apaixonado por tecnologia desde criança. Atualmente, curso Sistemas para Internet no IFPB e com estudos focados em RPA e Java. </h3>
+<p align="center">Apaixonado por tecnologia desde criança.<br>Atualmente, curso Sistemas para Internet no IFPB e com estudos focados em RPA e Java. </p>
 
 ###
 
-<h2 align="left">Tecnologias que já tive contato</h2>
+<h3 align="center">Tecnologias que já tive contato</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -31,12 +31,13 @@
 
 ###
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ian2z&theme=react-dark)
-
-###
-
-###
-
 <img src="https://raw.githubusercontent.com/ian2z/ian2z/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+### Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josef-ian/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josefian2020@gmail.com)
 
 ###
