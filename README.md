@@ -1,12 +1,12 @@
-<h1 align="left">Seja bem-vindo(a)!</h1>
+<h1 align="center">Seja bem-vindo(a)!</h1>
 
 ###
 
-<p align="left">Apaixonado por tecnologia desde criança, sempre quis entender o que acontece por trás dos sites e programas que utilizamos no dia a dia. Esse interesse me levou a explorar cada vez mais o funcionamento dessas ferramentas e a desenvolver habilidades em programação. Atualmente, curso Sistemas para Internet no IFPB e estou sempre em busca de novos conhecimentos para aprimorar minhas competências na área. </p>
+<h3 align="center">Apaixonado por tecnologia desde criança. Atualmente, curso Sistemas para Internet no IFPB e com estudos focados em RPA e Java. </h3>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Tecnologias que já tive contato</h2>
 
 ###
 
@@ -28,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
 </div>
+
+###
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ian2z&theme=react-dark)
+
+###
 
 ###
 
