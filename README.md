@@ -1,7 +1,5 @@
 <h2 align="center">Josef Ian </h2>
 
----
-
 <p align="center">Apaixonado por tecnologia desde criança<br>Atualmente, curso Sistemas para Internet no IFPB (2026), com estudos focados em RPA, Python e Java</p>
 
 <div align="center">
