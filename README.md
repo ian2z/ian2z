@@ -1,13 +1,13 @@
 <h2 align="center">Josef Ian </h2>
 
-<p align="center">Sistemas para Internet no IFPB (2027). <br/> Atualmente com estudos focados em Python, Java e SQL</p>
+<p align="center">Sistemas para Internet no IFPB (2027). <br/> Atualmente com estudos focados em Python, Java e TypeScript</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt="java logo" />
 </div>
 
-<p align="center">Sinta-se à vontade para explorar e testar os repositórios!<br>Aqui compartilho ideias, projetos e atividades que desenvolvo ao longo da minha jornada de aprendizado.</p>
+<p align="center">Sinta-se à vontade para explorar e testar os repositórios!<br>Aqui compartilho ideias, projetos e atividades que<br/> desenvolvo ao longo da minha jornada de aprendizado.</p>
 
 <p align="center"><em>see ya!</em></p>
 
