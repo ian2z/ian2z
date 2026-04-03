@@ -1,3 +1,4 @@
+---
 
 <p align="center">Sinta-se à vontade para explorar e testar os repositórios!<br>Aqui compartilho ideias, projetos e atividades que<br/> desenvolvo ao longo da minha jornada de aprendizado.</p>
 
