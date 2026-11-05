@@ -1,6 +1,6 @@
 Backend Dev
 
-Spring Boot | PostgreSQL | Linux | AWS CLF-C02 Certification
+Spring Boot | Python | PostgreSQL | Linux | AWS CLF-C02 Certification
 
 [ian2z.tech](https://www.ian2z.tech/) for more info
 
