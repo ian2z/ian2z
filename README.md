@@ -7,12 +7,3 @@ Spring Boot | Python | PostgreSQL | Linux | AWS CLF-C02 Certification
 Contact:
 [LinkedIn](https://www.linkedin.com/in/josef-ian/)
 [Email](mailto:josefian2020@gmail.com)
-
-<br>
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣾⣿⣿⣿⣿⡿⠿⠛⠋⠁<br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡀⠀⠀⢀⣼⣿⣿⣿⣿⠟⠛⠉⠀⠀⠀⠀⠀⠀<br>
-⠀⠀⠀⠀⣀⣤⣶⣶⣶⣶⣶⣶⣶⣧⣀⠀⠀⠀⢿⣶⣿⣇⣀⣴⣾⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
-⢀⣠⣴⠿⠿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⣿⡿⠋⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⠿⠛⠛⢿⡿⠿⢿⣿⣿⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠈⠙⡁⠀⠀
